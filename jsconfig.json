@@ -1,0 +1,7 @@
+{
+	"_comment": "This a VSCode configuration",
+	"compilerOptions": {
+		"baseUrl": "src"
+	},
+	"include": ["src"]
+}

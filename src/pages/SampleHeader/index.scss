@@ -1,0 +1,21 @@
+@import "app/variables", "app/mixin";
+
+header {
+  .container {
+    padding: 0 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    background-color: #f0f0f0;
+    div {
+      span {
+        font-size: 20px;
+      }
+    }
+    ul {
+      display: flex;
+    }
+  }
+}
